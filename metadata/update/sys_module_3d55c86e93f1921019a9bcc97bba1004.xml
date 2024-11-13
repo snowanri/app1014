@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[
+      {
+    "name": "x-snc-app-1",
+    "version": "0.0.1",
+    "description": "App created by wpt1 in v1.0.14",
+    "license": "UNLICENSED",
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk deploy",
+        "fetch": "now-sdk fetch",
+        "dependencies": "now-sdk dependencies"
+    },
+    "devDependencies": {
+        "@servicenow/sdk": "2.0.1",
+        "@servicenow/glide": "26.0.1",
+        "eslint": "8.50.0",
+        "@servicenow/eslint-plugin-sdk-app-plugin": "2.0.1"
+    }
+}]]></content>
+        <external_source>false</external_source>
+        <path>x_snc_app1/x-snc-app-1/0.0.1/package.json</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>admin.wpt1</sys_created_by>
+        <sys_created_on>2024-11-13 19:16:51</sys_created_on>
+        <sys_id>3d55c86e93f1921019a9bcc97bba1004</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_app1/x-snc-app-1/0.0.1/package.json</sys_name>
+        <sys_package display_value="app1014" source="x_snc_app1">eb232754055a4f7da45c51d66bd8ccd3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app1014">eb232754055a4f7da45c51d66bd8ccd3</sys_scope>
+        <sys_update_name>sys_module_3d55c86e93f1921019a9bcc97bba1004</sys_update_name>
+        <sys_updated_by>admin.wpt1</sys_updated_by>
+        <sys_updated_on>2024-11-13 19:16:51</sys_updated_on>
+    </sys_module>
+</record_update>
